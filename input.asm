@@ -1,0 +1,10 @@
+ADD R1 R2 R3 //SHREYA ...
+equal:MOV R2 
+CMP R1    
+BEQ
+MOV R3 0
+ADD R1 R2 45  
+LD R1 R2 43   
+ADD R2 R1 R3   
+MOV R3 1
+HLT
